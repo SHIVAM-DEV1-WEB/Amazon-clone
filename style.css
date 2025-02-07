@@ -4,6 +4,13 @@
     
 }
 
+body{
+    background-color: pink;
+    width: 100%;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
 .navbar{
     height: 60px;
     background-color: #0f1111;
@@ -52,9 +59,8 @@
 #pp{
     width: 231px;
 }
-#ALL{
-    width: 200px;
-}
+
+
 .flag{
     height: 22px;
     width: 30px;
@@ -64,49 +70,267 @@
 }
 .region{
     display: flex;
+    margin-left: 5rem;
 }
 .language{
     margin-left: 05px;
 }
 .signpage{
-    margin-left: 30px;
+   margin-left: 5rem;
 
 }
 .order{
-    margin-left: 30px;
+    margin-left: 5rem;
     
 }
 .cart{
    
-    margin-left: 30px;
+    margin-left: 5rem;
 }
 .button{
     background-color: #febd86;
     border-top-right-radius: 10%;
-    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    height: 2.8rem;
+    width: 5rem;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    
+
 }
 #hello{
     font-size: 0.7rem;
 }
-.pannel{
+
+ .pannel{
     display: flex;
     height: 40px;
     background-color: #222f3d;
     color: white;
     align-items: center;
-    justify-content: space-evenly;
     
-}
+ }   
+    
 #pp{
     display: inline;
     font-size: 0.85rem;
-    margin-left: 12px;
+    margin-left:5rem;
     
 }
 #ALL{
     border-radius: 20%;
-    margin-left: 20px;
+    width: 10rem;
 }
-#ppp{
-    border-radius: 10%;
+#pppf{
+    
+    height: 2.5rem;
+    width: 25rem;
 }
+
+.nav-adress{
+    margin-left: 5rem;
+}
+
+.navsearch {
+    margin-left:5rem ;
+    height: 2.8rem;
+    
+}
+
+.pannel border{
+    margin-left: 5rem;
+}
+
+.f1{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    margin-top: 15rem;
+    margin-left: 3rem;
+}
+
+.f2{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    margin-top: 15rem;
+    margin-left: 1rem;
+}
+
+.f3{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    margin-top: 15rem;
+    margin-left: 1rem;
+}
+
+.f4{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    margin-top: 15rem;
+    margin-left: 1rem;
+}
+
+.d1{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+}
+
+.interface{
+    display: flex;
+   
+}
+
+#img2{
+    height: 110px;
+    width: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 1.5rem;
+    padding-top: 4rem;
+}
+
+#img3{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 4rem;
+    
+   
+}
+
+.f1{
+   
+    margin-left: 1rem;
+}
+
+.img{
+    display: flex;
+}
+
+#img4{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 2rem;
+    
+}
+
+#img5{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 2rem;
+    
+}
+
+#img6{
+    height: 110px;
+    width: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 1.5rem;
+    padding-top: 4rem;
+}
+
+#img7{
+    height: 110px;
+    width: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 1.5rem;
+    padding-top: 4rem;
+}
+
+#img8{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 2rem;
+}
+
+#img9{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 2rem;
+}
+
+#img10{
+    height: 110px;
+    width: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 1.5rem;
+    padding-top: 4rem;
+}
+
+#img11{
+    height: 110px;
+    width: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 1.5rem;
+    padding-top: 4rem;
+}
+
+#img12{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 2rem;
+}
+
+#img13{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 2rem;
+}
+
+#img14{
+    height: 110px;
+    width: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 1.5rem;
+    padding-top: 4rem;
+}
+
+#img15{
+    height: 110px;
+    width: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 1.5rem;
+    padding-top: 4rem;
+}
+
+#img16{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 2rem;
+}
+
+#img17{
+    height: 110px;
+    width: 130px;
+    padding-left: 1.5rem;
+    background-size: cover;
+    padding-top: 2rem;
+}
+
